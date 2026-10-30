@@ -1,7 +1,7 @@
 
   # SmartWaste Connect Web App
 
-  This is a code bundle for SmartWaste Connect Web App. The original project is available at https://latch-claim-78937194.figma.site/
+  This is a code bundle for SmartWaste Connect Web App. The original project is available at https://smart-waste-connect-web-app.vercel.app
 
   ## Running the code
 
